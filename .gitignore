@@ -1,0 +1,14 @@
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+data/
+outputs/
+models/
+submissions/
+*.pkl
+*.pickle
+*.joblib
+*.csv
+*.xlsx
